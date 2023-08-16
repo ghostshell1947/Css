@@ -1,0 +1,24 @@
+<div class='download-info'>
+  <span class='file-icon'>Rar</span>
+  <span class='file-text'>State of Decay 2 Juggernaut Edition (2020) [GHOST TECH WORLD].rar</span>
+  <a class='button file-link' href='https://www24.zippyshare.com/v/GsPvXLg5/file.html' target='_blank' rel='noreferrer noopener'><i class='m-icon download'></i>Download</a>
+</div>t;background-position:center center}
+
+
+
+
+
+
+
+button css code (Paste the CSS code just below the blog name details or you can paste the code under head section.)
+
+/* Heading Font */
+@font-face {font-family: 'Poppins';font-style: normal;font-weight: 700;font-display: swap;src: local('Poppins Bold'), local('Poppins-Bold'), url(https://fonts.gstatic.com/s/poppins/v13/pxiByp8kv8JHgFVrLCz7V1g.woff) format('woff'), url(https://fonts.gstatic.com/s/poppins/v13/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2) format('woff2')}
+.Blog .download-info{display:flex;align-items:center;margin:1.7em 0;padding:15px;border:2px solid #ebeced;border-radius:3px;font-size:13px}
+.Blog .download-info .file-icon{flex-shrink:0;display:flex;align-items:center;justify-content:center;width:50px;height:50px;padding:10px;border-radius:15px;color:#fefefe;background:#ebeced linear-gradient(225deg,#00dcc0 0,#005af0 75%);font-weight:700;font-family:Poppins, sans-serif}
+.Blog .download-info .file-text{padding:0 12px;width:calc(100% - 150px);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.Blog .download-info .file-link{flex-shrink:0;display:flex;font-size:11px;margin:0 0 0 auto;padding:6px 10px}
+.Blog .download-info .file-link .m-icon{width:15px;height:15px}
+.button{display:inline-flex;align-items:center;margin:15px 15px 15px 0;padding:10px 20px;outline:0;border:0;color:#fefefe !important;background-color:#005af0;border-radius:3px;font-size:13px;line-height:22px}
+.m-icon.download{background-image:url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%23161617" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M3 17v3a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-3"/><polyline points="8 12 12 16 16 12"/><line x1="12" x2="12" y1="2" y2="16"/></svg>')}
+.m-icon{display:inline-block;margin-right:12px;width:18px;height:18px;background-size:cover;background-repeat:no-repeat;background-position:center center}
