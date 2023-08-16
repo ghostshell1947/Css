@@ -1,9 +1,6 @@
 # CSS
 Give your website stunning & ui ux look with the help of custom css. Check Now.
 
-# Templates
-Download Wordpress, Blogger, WooCommerce Themes for free. Check Now.
-
 <!--
 <h2 align="center">
   Welcome to ChaozByte!
